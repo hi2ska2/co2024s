@@ -4,7 +4,7 @@ GIST EECS
 
 |Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |---|---|---|---|---|---|---|---|---|---|
-|W1|2월 29일|<span style="color:red">N/A</span>|
+|W1|2월 29일|<span style="color:red"> N/A </span>|
 |W2|3월 7일|3월 8일|
 |W3|3월 14일|3월 15일|
 |W4|3월 21일|3월 22일|
