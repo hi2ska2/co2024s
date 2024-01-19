@@ -2,5 +2,6 @@
 
 GIST EECS
 
-|제목|내용|설명|
+|Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |-----|---|---|
+|
