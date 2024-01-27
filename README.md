@@ -13,7 +13,7 @@ GIST EECS
 |W7|N/A|N/A|
 |W8|N/A|N/A|
 |W9|**4월 25일**|4월 26일|오경환 교수|연세대학교| |TBD|이병하 교수|영어|
-|W10|5월 2일|5월 3일|교수|인천대학교 |Wireless Power for 1G~B5G Wireless Communication: Sound in Silence|함병승 교수|
+|W10|5월 2일|5월 3일|강승택교수| |인천대학교 컴퓨터정보통신공학과|Wireless Power for 1G~B5G Wireless Communication: Sound in Silence|함병승 교수|
 |W11|5월 9일|5월 10일|
 |W12|5월 16일|5월 17일|
 |W13|5월 23일|5월 24일|
