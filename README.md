@@ -12,7 +12,7 @@ GIST EECS
 |W6|4월 4일|4월 5일|
 |W7|N/A|N/A|
 |W8|N/A|N/A|
-|W9|**4월 25일**|4월 26일|오경환 교수|연세대학교| |TBD|이병하 교수|영어|
+|W9|**4월 25일**|4월 26일|오경환 교수|연세대학교|koh@yonsei.ac.kr|TBD|이병하 교수|영어|
 |W10|5월 2일|5월 3일|강승택 교수|인천대학교 컴퓨터정보통신공학과| |Wireless Power for 1G~B5G Wireless Communication: Sound in Silence|함병승 교수|
 |W11|5월 9일|**5월 10일**|장경인 교수|DGIST 로봇공학과|kijang@dgist.ac.kr|Stealthy neural recorder for studying behavior in primates|송영민 교수|영어|
 |W12|5월 16일|**5월 17일**|한문종 교수|가천대학교 전자공학부|doorbell1@gachon.ac.kr|Environment-Adjustable Bilingual Synaptic Functions in Bio-Synaptic Transistors|정현호 교수|영어|
