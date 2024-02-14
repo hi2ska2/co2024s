@@ -9,7 +9,7 @@ GIST EECS
 |W3|3월 14일|**3월 15일**|정성엽 박사|차세대융합기술연구원|sungyeopj@gmail.com|TBD|홍성민 교수|영어
 |W4|3월 21일|**3월 22일**|김영진 교수|KAIST 기계공학과|yj.kim@kaist.ac.kr|Ultrafast Photonics for Ultra-Precision|정현호 교수|영어
 |W5|3월 28일|**3월 29일**|최원식 교수|고려대학교 물리학과|wonshik@korea.ac.kr|TBD|이병하 교수|
-|W6|4월 4일|4월 5일|
+|W6|4월 4일|**4월 5일**|오세용 교수|한양대학교 ERICA 전자공학부|seyongoh89@hanyang.ac.kr|TBD|
 |W7|N/A|N/A|
 |W8|N/A|N/A|
 |W9|**4월 25일**|4월 26일|오경환 교수|연세대학교|koh@yonsei.ac.kr|Liquid manipulation using optical force|이병하 교수|영어|
