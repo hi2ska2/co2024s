@@ -4,11 +4,11 @@ GIST EECS
 
 |Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |---|---|---|---|---|---|---|---|---|---|
-|W1|**2월 29일**|N/A|
+|W1|2월 29일|N/A|
 |W2|3월 7일|3월 8일|
-|W3|3월 14일|**3월 15일**|정성엽 박사|차세대융합기술연구원|sungyeopj@gmail.com|TBD|홍성민 교수|영어
-|W4|3월 21일|**3월 22일**|김영진 교수|KAIST 기계공학과|yj.kim@kaist.ac.kr|Ultrafast Photonics for Ultra-Precision|정현호 교수|영어
-|W5|3월 28일|**3월 29일**|최원식 교수|고려대학교 물리학과|wonshik@korea.ac.kr|Exploiting multiple scattering for deep-tissue imaging and all-optical machine learning|이병하 교수|
+|W3|3월 14일|**3월 15일**|정성엽 박사|차세대융합기술연구원|sungyeopj@gmail.com|TBD|홍성민 교수|영어|
+|W4|3월 21일|**3월 22일**|김영진 교수|KAIST 기계공학과|yj.kim@kaist.ac.kr|Ultrafast Photonics for Ultra-Precision|정현호 교수|영어|
+|W5|3월 28일|**3월 29일**|최원식 교수|고려대학교 물리학과|wonshik@korea.ac.kr|Exploiting multiple scattering for deep-tissue imaging and all-optical machine learning|이병하 교수|영어|
 |W6|4월 4일|**4월 5일**|오세용 교수|한양대학교 ERICA 전자공학부|seyongoh89@hanyang.ac.kr|TBD|
 |W7|N/A|N/A|
 |W8|N/A|N/A|
